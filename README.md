@@ -24,3 +24,18 @@ This project uses a pre-trained YOLOv5 model from the Ultralytics library to per
 
 ```bash
 pip install -r requirements.txt
+```
+## 📸 Demo Screenshots
+
+Here are sample outputs from the real-time object detection system:
+
+### 🧍 Person with Pen
+![Pen](Demo1.jpg)
+
+### 🧍 Person with Bottle 
+![Bottle](Demo2.jpg)
+
+### 🧍 Person with Mobile Phone 
+![Mobile Phone](Demo3.jpg)
+
+
