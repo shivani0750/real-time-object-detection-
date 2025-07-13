@@ -16,7 +16,7 @@ This project uses a pre-trained YOLOv5 model from the Ultralytics library to per
 - Passes each frame through YOLOv5s model
 - Displays bounding boxes, class names, and FPS
 - Runs in real-time
-- 
+
 ## 🧰 Installation
 
 1. Clone this repo or download the files
